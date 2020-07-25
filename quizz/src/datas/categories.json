@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "categorieId":1,
+        "slug": "cinema",
+        "titre":"la momie"
+    },
+
+    {
+        "id":2,
+        "categorieId":1,
+        "slug": "cinema",
+        "titre":"l'arme fatal"
+    },
+
+    {
+        "id":3,
+        "categorieId":1,
+        "slug": "cinema",
+        "titre":"les canons de navarone"
+    },
+
+    {
+        "id":4,
+        "categorieId":1,
+        "slug": "cinema",
+        "titre":"la beuze"
+    },
+
+    {
+        "id":5,
+        "categorieId":2,
+        "slug": "geographie",
+        "titre":"ocean"
+    },
+
+    {
+        "id":6,
+        "categorieId":2,
+        "slug": "geographie",
+        "titre":"france"
+    },
+
+    {
+        "id":7,
+        "categorieId":2,
+        "slug": "geographie",
+        "titre":"europe"
+    },
+
+    {
+        "id":8,
+        "categorieId":2,
+        "slug": "geographie",
+        "titre":"monde"
+    }
+]
